@@ -10,14 +10,19 @@ Intent: Looking for a software (online tool) that allows her to create this game
 
 Assumptions:
 
-- Assume Rewards are already set-up on the dashboard for the Marketing Manager to choose from
-- There are actions to complete for the Challenge:
-<li>Download the brand app (action)</li>
-<li>Spend 100 SGD at the local store (transaction)</li>
-<li>Share progress on Social Media (action)</li>
-- Assume target audience is already pre-defined on the dashboard. Whoever starts engaging in the beginning becomes part of the pool of users in the journey for the leaderboard challenge
-- The end user experience is not required to be wireframed
-- Make any other assumptions necessary but state them explicitly
+<ul>
+  <li>Assume Rewards are already set-up on the dashboard for the Marketing Manager to choose from</li>
+  <li>There are actions to complete for the Challenge:
+    <ul>
+      <li>Download the brand app (action)</li>
+      <li>Spend 100 SGD at the local store (transaction)</li>
+      <li>Share progress on Social Media (action)</li>
+    </ul>
+  </li>
+  <li>Assume target audience is already pre-defined on the dashboard. Whoever starts engaging in the beginning becomes part of the pool of users in the journey for the leaderboard challenge</li>
+ <li>The end user experience is not required to be wireframed</li>
+ <li>Make any other assumptions necessary but state them explicitly</li>
+</ul>
 
 Inspirations:
 
